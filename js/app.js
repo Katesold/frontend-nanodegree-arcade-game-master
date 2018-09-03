@@ -1,5 +1,4 @@
 let wins = 0;
-/*gameBody.innerHTML = `<p>Wins: ${wins}</p>`;*/
 
 const won = document.querySelector('div');
 const head = document.querySelector('h1');
